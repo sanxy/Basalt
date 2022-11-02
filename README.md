@@ -1,6 +1,6 @@
 # basalt
 
-A new Flutter project.
+A flutter app that shows the stock market report of 10 random companies.
 
 ## Getting Started
 
